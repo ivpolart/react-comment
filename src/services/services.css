@@ -1,0 +1,97 @@
+.services {
+    display: flex;
+    flex-direction: column;
+  }
+  .services-head {
+    text-align: right;
+    margin-right: 28px;
+  }
+  .services-head p {
+    padding-right: 30px;
+    padding-bottom: 8px;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+  }
+  .border-1 {
+    width: 317px;
+    border-bottom: 1px solid #DADADA;
+    float: right;
+  }
+  .services-content {
+    margin-right: 67px;
+    margin-top: 11px;
+    float: right;
+  }
+  .services-content-list {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2px;
+  }
+  
+  .services-content-list div {
+    border-radius: 0px 3px 3px 0px;
+  }
+  .services-content-list h3 {
+    position: absolute;
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 26px;
+    color: #333333;
+    padding-left: 6px;
+  }
+  .services-content-list p {
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15px;
+    margin-top: 5px;
+  }
+  #first-service {
+    background: #B1E19B;
+    width: 219px;
+    height: 25px;
+    margin-right: 42px;
+  }
+  #second-service {
+    background: #ACE2F8;
+    width: 54px;
+    height: 24px;
+    margin-right: 214px;
+  }
+  #thirth-service {
+    background: #ACE2F8;
+    width: 36px;
+    height: 24px;
+    margin-right: 232px;
+  }
+  .services-summ {
+    margin-top: 15px;
+    margin-right: 12px;
+    float: right;
+  }
+  .services-summ-content {
+    display: flex;
+    float: right;
+    border-top: 1px solid#DADADA;
+    margin-right: 17px;
+    padding-bottom: 9px;
+  }
+  .services-summ-content h3 {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    margin-right: 212px;
+    padding-top: 9px;
+  }
+  .services-summ-content P {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    margin-right: 38px;
+    padding-top: 9px;
+  }

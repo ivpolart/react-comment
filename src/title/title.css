@@ -1,0 +1,36 @@
+.title {
+    margin: 17px 24px 13px 12px;
+  }
+  .title-left {
+    position: absolute;
+  }
+  .title-right {
+    padding: 9px 0 3px 134px;
+  }
+  .title-right h3 {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 700;
+    padding-bottom: 5px;
+  }
+  .title-right p {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    color: #808080;
+    padding-bottom: 5px;
+  }
+  .yellow-title {
+    border: 1px solid #DADADA;
+    background-color: #FFFBC8;
+    margin-left: 89px;
+    padding: 7px 0 8px 45px
+  }
+  .yellow-title p {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .yellow-title_top-padding {
+    padding-bottom: 5px;
+  }
